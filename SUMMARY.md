@@ -4,4 +4,5 @@
 * [Emacs Cheatsheet](emacs-cheatsheet.md)
 * [Kotlin](kotlin.md)
 * [Documentation](documentation.md)
+* [Miscellaneous Android](miscellaneous-android.md)
 

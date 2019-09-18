@@ -5,4 +5,5 @@
 * [Kotlin](kotlin.md)
 * [Documentation](documentation.md)
 * [Miscellaneous Android](miscellaneous-android.md)
+* [Good Software Articles](good-software-articles.md)
 

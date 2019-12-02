@@ -8,4 +8,5 @@
 * [Good Software Articles](good-software-articles.md)
 * [Flutter Cookbook](flutter-cookbook/README.md)
   * [Overlays](flutter-cookbook/overlays.md)
+* [macOS VM](macos-vm.md)
 

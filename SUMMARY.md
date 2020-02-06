@@ -10,4 +10,5 @@
   * [Testing](flutter-cookbook/testing.md)
   * [Overlays](flutter-cookbook/overlays.md)
 * [macOS VM](macos-vm.md)
+* [SEO Strategies](seo-strategies.md)
 
